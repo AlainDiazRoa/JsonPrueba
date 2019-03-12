@@ -1,7 +1,4 @@
 {
-   "post":[
-  {"_id":1,"Nombre":"Alain","Apellido":"Diaz","Edad":32}
- ],
  "estado":{
     "codigo":0,
     "respuesta":"Operacion buscar exitosa"
