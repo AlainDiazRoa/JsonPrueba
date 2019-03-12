@@ -9,6 +9,11 @@
     "Apellido":"Diaz",
     "Edad":34
 
-    }]
+    }],
+ "publicaciones":[{
+    "Titulo":"Assa",
+    "Texto":"sdaasda",
+    "Imagen":"sadas"
+ }]
 
 }
