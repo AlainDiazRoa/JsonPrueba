@@ -1,10 +1,19 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+   "post":[
+  {"_id":1,"Nombre":"Alain","Apellido":"Diaz","Edad":32}
+ ],
+ "estado":{
+    "codigo":0,
+    "respuesta":"Operacion buscar exitosa"
+},
+"personas":[{
+    "_id":"7676",
+    "Nombre":"Alain",
+    "Apellido":"Diaz",
+    "Edad":34
+
     }
-  ],
+,
   "profile": {
     "name": "typicode"
   }
